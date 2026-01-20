@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @Apexa-Vairagi
-- 👀 I’m interested in Data Analyst.
-- 🌱 I’m currently learning Power Bi, Python, SQL.
-- 💞️ I’m looking to collaborate on Power Bi/Data analyst Project.
-- 💬 Ask me about BI & Python
-- ⚡ Fun fact English, Hindi and Gujarati.
+- 👀 I’m interested in Web Web Development!
+- 🌱 I’m currently learning HTML, CSS, JS, Node JS
+- 💞️ I’m looking to collaborate on web development Project.
+=- ⚡ Fun fact English, Hindi and Gujarati.
 
 
 <!---
